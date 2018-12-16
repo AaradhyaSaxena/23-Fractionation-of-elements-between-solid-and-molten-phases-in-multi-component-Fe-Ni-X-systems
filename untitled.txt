@@ -1,0 +1,5 @@
+In this problem we are given D(Cu) and FeDomains, and our job is to find a relation between these two for different elements.
+The relation between these two will vary depending upon the nature of elements.
+We have an initial model, which is derived from equations of thermodynamics, but still we will first try to come up with an equation, on the basis of data collected.
+Step1: Find an equation
+-----------------
